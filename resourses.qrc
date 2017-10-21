@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>MKB.txt</file>
+        <file>ATC.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+﻿R03AC02,Salbutamol;R03AC04,Fenoterol;R03AC12,Salmeterol;R03AC13,Formoterol;R03BA01,Beclometasone;R03BA02,Budesonide;R03BA05,Fluticasone;R03BB01,Ipratropium bromide;R03BB04,Tiotropium bromide;R03BC01,Cromoglicic acid;R03BC03,Nedocromil
